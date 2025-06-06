@@ -1,0 +1,15 @@
+# Ignore bundler config
+.bundle/
+
+# Ignore site build output
+_site/
+
+# Ignore vendor dependencies
+vendor/
+
+# Ignore Ruby gems
+*.gem
+
+# Ignore logs and temp files
+*.log
+tmp/

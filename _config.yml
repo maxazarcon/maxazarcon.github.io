@@ -1,5 +1,14 @@
+# Jekyll configuration
 
 title: "Max Azarcon"
 description: "Designer. Developer. Occasional air‑hockey menace."
-theme: minima         # or a remote_theme if you prefer
+url: "" # deployed URL
 markdown: kramdown
+
+plugins:
+  - jekyll-feed
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
