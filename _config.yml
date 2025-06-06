@@ -1,1 +1,5 @@
 
+title: "Max Azarcon"
+description: "Designer. Developer. Occasional air‑hockey menace."
+theme: minima         # or a remote_theme if you prefer
+markdown: kramdown
